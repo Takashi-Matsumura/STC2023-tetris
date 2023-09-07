@@ -15,3 +15,7 @@ https://gist.github.com/straker/3c98304f8a6a9174efd8292800891ea1
 ## 課題
 
 このテトリスゲームの改良したいポイントをあげてください。
+
+## 参考
+
+* ６行テトリス（カメヲラボ）https://ozy4dm.hateblo.jp/entry/20100325/p1
